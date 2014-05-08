@@ -19,7 +19,7 @@ Feel free to swap them out and adjust for your own purposes.
 
 Unfortunately, a lot of email clients block images by default. The images in the stacked tables are examples of how to properly code images for email—they include specific dimensions, ALT text, and styles for keeping your ALT text looking nice when images are disabled.
 
-*Note: The images in the Salted template use relative paths, **which will not work in real campaigns**. Update your image paths to be absolute and point to a publicly accessible server to ensure that your subscribers get to look at all of your pretty graphics.*
+*Note: The images in the Salted template use relative paths, which will not work in real campaigns. Update your image paths to be absolute and point to a publicly accessible server to ensure that your subscribers get to look at all of your pretty graphics.*
 
 ### Bulletproof Buttons
 
